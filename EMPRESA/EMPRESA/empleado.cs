@@ -27,6 +27,7 @@ namespace EMPRESA
 
         public void mostrarInfo()
         {
+            //Insercion de datos
             Console.WriteLine("Ingrese su nombre:");
             nombre = Console.ReadLine();
             Console.WriteLine("Ingrese su apellido:");
@@ -34,6 +35,7 @@ namespace EMPRESA
             Console.WriteLine("Ingrese su numero de Cedula:");
             cedula = Console.ReadLine();
             sueldo=salarioAnual();
+            //Impresion de datos
             Console.WriteLine("---------------------------------------");
             Console.WriteLine("Datos Ingresados");
             Console.WriteLine("Nombre: "+nombre);
@@ -41,7 +43,7 @@ namespace EMPRESA
             Console.WriteLine("Cedula: " + cedula);
             Console.WriteLine("Sueldo Anual: " +sueldo );
         }
-
+        //Funcion para calcular el salrio anual del empleado
         public float salarioAnual()
         {
            Console.WriteLine("Igreso del sueldo mensual:");

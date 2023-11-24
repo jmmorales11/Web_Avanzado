@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\Bases_Avanzado\\primer_parcial\\EMPRESA\\EMPRESA\\EMPRESA.csproj": {}
+    "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\Repositorio\\Web_Avanzado\\EMPRESA\\EMPRESA\\EMPRESA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\Bases_Avanzado\\primer_parcial\\EMPRESA\\EMPRESA\\EMPRESA.csproj": {
+    "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\Repositorio\\Web_Avanzado\\EMPRESA\\EMPRESA\\EMPRESA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\Bases_Avanzado\\primer_parcial\\EMPRESA\\EMPRESA\\EMPRESA.csproj",
+        "projectUniqueName": "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\Repositorio\\Web_Avanzado\\EMPRESA\\EMPRESA\\EMPRESA.csproj",
         "projectName": "EMPRESA",
-        "projectPath": "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\Bases_Avanzado\\primer_parcial\\EMPRESA\\EMPRESA\\EMPRESA.csproj",
+        "projectPath": "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\Repositorio\\Web_Avanzado\\EMPRESA\\EMPRESA\\EMPRESA.csproj",
         "packagesPath": "C:\\Users\\Jeimy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\Bases_Avanzado\\primer_parcial\\EMPRESA\\EMPRESA\\obj\\",
+        "outputPath": "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\Repositorio\\Web_Avanzado\\EMPRESA\\EMPRESA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

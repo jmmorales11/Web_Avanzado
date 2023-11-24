@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace EMPRESA
 {
+    //Creacion de una interfaz
     interface IMostrarInformacion
     {
         void mostrarInfo();

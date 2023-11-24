@@ -12,3 +12,17 @@ C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Bases_Avanzado\primer_parcial
 C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Bases_Avanzado\primer_parcial\EMPRESA\EMPRESA\obj\Debug\net6.0\EMPRESA.pdb
 C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Bases_Avanzado\primer_parcial\EMPRESA\EMPRESA\obj\Debug\net6.0\EMPRESA.genruntimeconfig.cache
 C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Bases_Avanzado\primer_parcial\EMPRESA\EMPRESA\obj\Debug\net6.0\ref\EMPRESA.dll
+C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Repositorio\Web_Avanzado\EMPRESA\EMPRESA\bin\Debug\net6.0\EMPRESA.exe
+C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Repositorio\Web_Avanzado\EMPRESA\EMPRESA\bin\Debug\net6.0\EMPRESA.deps.json
+C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Repositorio\Web_Avanzado\EMPRESA\EMPRESA\bin\Debug\net6.0\EMPRESA.runtimeconfig.json
+C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Repositorio\Web_Avanzado\EMPRESA\EMPRESA\bin\Debug\net6.0\EMPRESA.dll
+C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Repositorio\Web_Avanzado\EMPRESA\EMPRESA\bin\Debug\net6.0\EMPRESA.pdb
+C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Repositorio\Web_Avanzado\EMPRESA\EMPRESA\obj\Debug\net6.0\EMPRESA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Repositorio\Web_Avanzado\EMPRESA\EMPRESA\obj\Debug\net6.0\EMPRESA.AssemblyInfoInputs.cache
+C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Repositorio\Web_Avanzado\EMPRESA\EMPRESA\obj\Debug\net6.0\EMPRESA.AssemblyInfo.cs
+C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Repositorio\Web_Avanzado\EMPRESA\EMPRESA\obj\Debug\net6.0\EMPRESA.csproj.CoreCompileInputs.cache
+C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Repositorio\Web_Avanzado\EMPRESA\EMPRESA\obj\Debug\net6.0\EMPRESA.dll
+C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Repositorio\Web_Avanzado\EMPRESA\EMPRESA\obj\Debug\net6.0\refint\EMPRESA.dll
+C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Repositorio\Web_Avanzado\EMPRESA\EMPRESA\obj\Debug\net6.0\EMPRESA.pdb
+C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Repositorio\Web_Avanzado\EMPRESA\EMPRESA\obj\Debug\net6.0\EMPRESA.genruntimeconfig.cache
+C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\Repositorio\Web_Avanzado\EMPRESA\EMPRESA\obj\Debug\net6.0\ref\EMPRESA.dll
