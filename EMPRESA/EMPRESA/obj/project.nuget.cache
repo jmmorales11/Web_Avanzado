@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VTrtQJzpudJ+hRxUa0iQBuDVsYz7mOSPz9glZ+gJPL2+vJN2qPO5A36c9Nt1Gk1Bk4jcGhcRs9Rx3dAxekWV8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\Bases_Avanzado\\primer_parcial\\EMPRESA\\EMPRESA\\EMPRESA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeimy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Jeimy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Jeimy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Jeimy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
